@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(40, 40, 40);
+    background-color: rgb(180, 180, 180);
 }
 h1 {
     color: rgb(255, 255, 255);
@@ -12,7 +12,7 @@ h3 {
 p {
     color: lightslategray;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 a:link {
     color:lightslategrey
